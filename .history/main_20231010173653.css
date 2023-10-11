@@ -1,0 +1,33 @@
+body{
+  background-color:bisque ;
+}
+h1{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+.Job1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color:darkblue;
+  text-align: center;
+}
+.Job2{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  font-size: large;
+  text-align: center;
+}
+.Job3{
+  font-family:'Times New Roman', Times, serif
+  font-size: large;
+  font
+  text-align: center;
+}
+h3{
+  margin-bottom: 10px;
+}
+h6{
+margin-top: 3px;
+margin-bottom: 10px;
+}

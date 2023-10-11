@@ -1,0 +1,25 @@
+body{
+  background-color:bisque ;
+}
+h1{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+}
+.Job1{
+  font-size: large;
+  color:darkblue;
+  text-align: center;
+}
+h3{
+  margin-bottom: 10px;
+}
+h6{
+margin-top: 3px;
+margin-bottom: 10px;
+}
+p1{
+  shape-margin: 50px;
+  color:aqua;
+}
