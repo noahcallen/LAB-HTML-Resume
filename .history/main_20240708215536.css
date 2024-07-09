@@ -1,0 +1,31 @@
+body {
+  background-color: wheat;
+  text-align: center;
+}
+
+h3 {
+  color: steelblue;
+}
+
+.HEADER {
+  margin: 50px 0px 50px 0px;
+  border-bottom: solid 5px black;
+}
+
+#Job1 {
+  padding: 0px 200px 50px 200px;
+  border: solid 2px brown;
+}
+
+#Job2 {
+  padding: 0px 200px 50px 200px;
+}
+
+#Job3 {
+  padding: 0px 200px 50px 200px;
+}
+
+.FOOTER {
+  border-top: solid 5px black;
+
+}
