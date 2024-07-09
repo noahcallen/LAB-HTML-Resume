@@ -1,0 +1,9 @@
+body {
+  background-color: wheat;
+  text-align: center;
+}
+
+.HEADER {
+  margin: 100px 0px 100px 0px;
+  border: solid 5px green;
+}
